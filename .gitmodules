@@ -1,0 +1,3 @@
+[submodule "DeepCore"]
+	path = DeepCore
+	url = https://github.com/PatrickZH/DeepCore
