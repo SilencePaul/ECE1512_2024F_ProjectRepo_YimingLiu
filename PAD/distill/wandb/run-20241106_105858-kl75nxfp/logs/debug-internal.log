@@ -1,0 +1,16 @@
+{"time":"2024-11-06T10:58:58.6920371-05:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T10:58:58.6925472-05:00","level":"INFO","msg":"created symlink","path":"D:\\PersonalFile\\UofT\\Digital Image Processing and Application\\ProjectA\\ECE1512_2024F_ProjectA_submission_files\\submission_files\\PAD\\PAD\\distill\\wandb\\run-20241106_105858-kl75nxfp\\logs\\debug-core.log"}
+{"time":"2024-11-06T10:58:58.8345602-05:00","level":"INFO","msg":"created new stream","id":"kl75nxfp"}
+{"time":"2024-11-06T10:58:58.8350753-05:00","level":"INFO","msg":"stream: started","id":"kl75nxfp"}
+{"time":"2024-11-06T10:58:58.8350753-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"kl75nxfp"}}
+{"time":"2024-11-06T10:58:58.8350753-05:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"kl75nxfp"}}
+{"time":"2024-11-06T10:58:58.8350753-05:00","level":"INFO","msg":"sender: started","stream_id":"kl75nxfp"}
+{"time":"2024-11-06T10:58:59.0877662-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T11:03:47.1788758-05:00","level":"INFO","msg":"stream: closing","id":"kl75nxfp"}
+{"time":"2024-11-06T11:03:47.1788758-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T11:03:47.1795639-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T11:03:48.8311244-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T11:03:49.1354838-05:00","level":"INFO","msg":"sender: closed","stream_id":"kl75nxfp"}
+{"time":"2024-11-06T11:03:49.1354838-05:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"kl75nxfp"}}
+{"time":"2024-11-06T11:03:49.1354838-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"kl75nxfp"}}
+{"time":"2024-11-06T11:03:49.1354838-05:00","level":"INFO","msg":"stream: closed","id":"kl75nxfp"}

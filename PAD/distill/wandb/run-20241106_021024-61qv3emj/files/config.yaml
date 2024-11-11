@@ -1,0 +1,151 @@
+_wandb:
+    value:
+        cli_version: 0.18.5
+        m: []
+        python_version: 3.11.9
+        t:
+            "1":
+                - 1
+                - 41
+                - 55
+                - 79
+            "2":
+                - 1
+                - 41
+                - 55
+                - 79
+            "3":
+                - 13
+                - 16
+                - 23
+                - 55
+                - 61
+            "4": 3.11.9
+            "5": 0.18.5
+            "8":
+                - 3
+                - 5
+            "12": 0.18.5
+            "13": windows-amd64
+Initialize_Label_Model:
+    value: ""
+Initialize_Label_Model_Dir:
+    value: ""
+Initialize_Label_With_Another_Model:
+    value: false
+Iteration:
+    value: 5000
+Label_Model_Timestamp:
+    value: -1
+Momentum_y:
+    value: 0.9
+Sequential_Generation:
+    value: true
+batch_real:
+    value: 256
+batch_syn:
+    value: 500
+batch_train:
+    value: 128
+buffer_path:
+    value: ../buffer_storage/
+canvas_samples:
+    value: 1
+canvas_size:
+    value: 2
+cfg:
+    value: ../configs/MNIST/IPC1.yaml
+current_max_start_epoch:
+    value: 20
+data_path:
+    value: ../dataset
+dataset:
+    value: MNIST
+dc_aug_param:
+    value: null
+depth_ratio:
+    value: 0.25
+device:
+    value: cuda
+dsa:
+    value: true
+dsa_param:
+    value: <utils.utils_baseline.ParamDiffAug object at 0x00000206DDC727D0>
+dsa_strategy:
+    value: color_crop_cutout_flip_scale_rotate
+ema_decay:
+    value: 0.995
+epoch_eval_train:
+    value: 1000
+eval_it:
+    value: 500
+eval_mode:
+    value: S
+expansion_end_epoch:
+    value: 3000
+expert_epochs:
+    value: 1
+force_save:
+    value: false
+im_size:
+    value:
+        - 28
+        - 28
+init_frozen:
+    value: start
+ipc:
+    value: 1
+load_all:
+    value: false
+loss_ratio:
+    value: 0.25
+lr_img:
+    value: 100
+lr_init:
+    value: 0.01
+lr_lr:
+    value: 1e-07
+lr_teacher:
+    value: 0.01
+lr_y:
+    value: 5
+max_experts:
+    value: null
+max_files:
+    value: null
+max_start_epoch:
+    value: 4
+min_start_epoch:
+    value: 0
+model:
+    value: ConvNet
+name:
+    value: RANDOM
+no_aug:
+    value: false
+num_eval:
+    value: 1
+parall_eva:
+    value: false
+pix_init:
+    value: samples_predicted_correctly
+project:
+    value: MNIST_ipc1
+record_loss:
+    value: false
+res:
+    value: 32
+skip_first_eva:
+    value: true
+subset:
+    value: imagenette
+syn_steps:
+    value: 40
+texture:
+    value: false
+threshold:
+    value: 1.05
+zca:
+    value: true
+zca_trans:
+    value: ZCAWhitening()

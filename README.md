@@ -14,3 +14,4 @@
 # sorted.ipynb is used for transfer MNIST_ConvNet3.ckpt to pt file with necessary information
 # covnetd3.py is used in PAD and DeepCore repository
 # buffer_storage is the buffers generated from PAD repository
+# PAD folder and DeepCore folder has the framework to run
