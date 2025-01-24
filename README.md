@@ -1,4 +1,3 @@
-# ECE1512_2024F_ProjectRepo_YimingLiu
 
 # mhist_dataset contains the MHIST data with annotaion.cvs and images file with all the images which need to be downloaded from website
 # Run mhist_benchmark_evaluation.py to get the benchmark evaluation of MHIST Dataset using original dataset
